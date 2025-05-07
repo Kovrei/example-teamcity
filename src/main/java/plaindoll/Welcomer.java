@@ -13,4 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String sayNeedHunter(){
+		return "netology hw-05-teamcity mission-10 HUNTER";
+	}
 }
